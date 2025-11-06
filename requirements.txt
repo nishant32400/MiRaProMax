@@ -1,0 +1,9 @@
+fastmcp
+pymongo
+python-dotenv
+requests
+
+uvicorn 
+python-dotenv 
+motor 
+openai
